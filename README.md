@@ -1,5 +1,5 @@
 # Kind of Machine Learning
 
 <p align="center">
-<img src= "Screenshot_4.jpg">
+<img src= "Screenshot_13.jpg">
 
